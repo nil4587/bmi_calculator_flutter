@@ -23,7 +23,19 @@ Understand the difference between const and final in Dart and when to use each.
 
 ## Project layout & App design
 
+1. Home Page:
+   ![BMI Calculator Home](https://github.com/nil4587/bmi_calculator_flutter/assets/3828906/baa61a63-7ea5-42ba-af65-a04f45aa5055)
 
+2. Result Page:
+  ![BMI Calculator Result](https://github.com/nil4587/bmi_calculator_flutter/assets/3828906/34abe743-617e-4b2f-9e9a-7dd8af997244)
+
+3. iOS App Recording:
+   
+  https://github.com/nil4587/bmi_calculator_flutter/assets/3828906/d52becb3-41e9-49e3-81a3-890a9ad6c8f1
+
+5. Android App Recording:
+   
+  https://github.com/nil4587/bmi_calculator_flutter/assets/3828906/84c8506b-1794-464e-8f85-9c68339e5c54
 
 ## Helpful Resources
 
